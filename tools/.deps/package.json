@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@strudel/mini": "^1.2.6",
+    "@strudel/tonal": "^1.2.6",
+    "@strudel/transpiler": "^1.2.6"
+  }
+}
